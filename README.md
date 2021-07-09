@@ -11,7 +11,7 @@ if bot bot giving error report at @zonerschat in telegram
 <p align="center">&nbsp;</p>
 <h2 align="center">How To Host</h2>
 <h5 align="center">The easiest way to deploy this derpfest!</h5>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/noobanon/userbot"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/matesa/userbot"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 <p align="center">&nbsp;</p>
 <h2 align="center">Credits</h2>
 <p align="center">Huge thanks to <a href="https://github.com/noobanon/userbot/graphs/contributors">everyone</a> who have helped make this userbot awesome!!</p>
